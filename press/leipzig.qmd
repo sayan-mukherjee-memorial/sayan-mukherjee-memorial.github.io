@@ -1,0 +1,6 @@
+---
+author: Universitat Leipzig
+title: "[University and Max Planck Institute mourn the passing of Professor Sayan Mukherjee](https://www.uni-leipzig.de/en/newsdetail/artikel/university-and-max-planck-institute-mourn-the-passing-of-professor-sayan-mukherjee-2025-04-02)"
+image: images/leipzig.png
+image-alt: News article from Universitat Leipzig
+---

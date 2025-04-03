@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - obituary.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+
+
