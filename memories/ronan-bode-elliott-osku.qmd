@@ -1,5 +1,6 @@
 ---
 author: Ronan + Bode + Elliott + Osku
+index: 4
 description: We will miss Sayan pretending to be a zombie! We had so much fun running around while he chased us and tried to eat our brains.
 ---
 

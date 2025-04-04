@@ -15,6 +15,7 @@ listing:
     fields: [author, description]
     type: grid
     filter-ui: false
+    sort: index
 ---
 
 Professor Sayan Mukherjee, 54, passed away in Leipzig, Germany, on March 31, 2025. Sayan loved music, food and cooking (especially for others), funny t-shirts (sometimes on the border of good taste), and working with his colleagues and students. He took great joy in translating between ideas from different fields and in sharing this love with his students. And he especially loved being a father to his son, Kiran.

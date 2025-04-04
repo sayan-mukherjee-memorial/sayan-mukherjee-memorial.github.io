@@ -1,5 +1,6 @@
 ---
 author: Jonathan Mattingly
+index: 8
 description: Sayan was a brilliant scientist who cared deeply about science, our human condition and individual people. He was a dedicated mentor who regularly went above and beyond. He had many collaborators and, above all, friends at Duke. He will be deeply missed
 ---
 
