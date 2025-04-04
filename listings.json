@@ -2,9 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/press/duke.html",
       "/press/leipzig.html",
       "/memories/chantal.html",
-      "/memories/mine.html"
+      "/memories/mine.html",
+      "/memories/ronan-bode-elliott.html"
     ]
   }
 ]
