@@ -6,7 +6,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - obituary.qmd
 
 format:
   html:

@@ -1,0 +1,6 @@
+---
+author: Duke University
+title: "[Duke Mourns the Death of Statistician and Mathematician Sayan Mukherjee](https://stat.duke.edu/news/duke-mourns-death-statistician-and-mathematician-sayan-mukherjee)"
+image: images/duke.png
+image-alt: News article from Duke University
+---
