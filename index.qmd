@@ -10,6 +10,7 @@ listing:
     type: grid
     filter-ui: false
     fields: [title, author, image]
+    sort: date desc
   - id: memories
     contents: "memories/*.qmd"
     fields: [author, description]

@@ -1,0 +1,7 @@
+---
+author: The Chronicle
+title: "[Duke statistical science professor Sayan Mukherjee dies unexpectedly at 54](https://www.dukechronicle.com/article/2025/04/duke-university-sayan-mukherjee-died-march-31-research-professor-of-mathematics-statistics-biostatistics-bioinformatics-leipzig-germany-achieved-exceptional-things)"
+date: 2025-04-05
+image: images/chronicle.png
+image-alt: News article from The Chronicle
+---
