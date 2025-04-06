@@ -1,0 +1,5 @@
+---
+author: Shan Shan
+index: 22
+description: Sayan was a wonderful mentor to me since my PhD days in Duke. He taught me so much—about statistics, Gaussian processes, and how to think more broadly across disciplines. He is a sincere and genuine person, humble, full of life, deeply caring and extremely funny. I’ll never forget his wild graphic tees—"data is the new bacon," "belieber," "WWF panda"—his playful metaphors, like the giant broccoli representing evolution, and his constant praise of the genius of Darwin.  Rest in peace, and toast to you, Sayan! I will miss your good laughs.
+---
