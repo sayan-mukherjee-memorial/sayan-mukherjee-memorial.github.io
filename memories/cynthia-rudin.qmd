@@ -1,0 +1,5 @@
+---
+author: Cynthia Rudin
+index: 27
+description: I met Sayan at my first conference - NIPS in ~2002. I didn't know a soul, I was not feeling well, it was really cold, I was very lonely, and definitely wondering if I belonged there at all. Sayan and his friend Rif totally changed everything - they spent both afternoons with me, and their excitement about the field was totally contagious. Who knows if I would still be in this field if it weren't for them? I kept in touch and Sayan's presence here was one of the main reasons I chose to come to Duke. Sayan can really light up a room. He had immense enthusiasm for whatever he was working on and you could just see his eyes light up when he was describing it. His booming laugh was incredible! He had an impressive knowledge base spanning many fields and always described himself as "very theoretical but also very applied" which I thought was awesome. Sayan also had a reputation among female ML scientists and statisticians as someone who was unique in being able to support them even when others didn't (there were so few of us back then!). I'll miss Sayan an awful lot.
+---
