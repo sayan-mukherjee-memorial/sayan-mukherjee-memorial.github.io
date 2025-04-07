@@ -1,0 +1,5 @@
+---
+author: Debraj Ghose
+index: 30
+description: I first met Sayan when he interviewed me for graduate school, and I liked how laid-back, fun, and friendly he was. After joining Duke, I took his course on statistical modeling of biological systems. At the time, I was more interested in mechanistic approaches, and when I brought this up with him, he immediately understood. He encouraged me to explore those ideas further and even let me veer off the standard coursework to do a project on reaction-diffusion equations, which greatly influenced my eventual PhD thesis. Though I didn’t work with him as closely as others, his openness and encouragement left a lasting mark on how I think about mentoring students and nurturing their individual paths.
+---
