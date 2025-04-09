@@ -1,9 +1,9 @@
 ---
 author: Brian St. Thomas
 index: 37
-description: I was fortunate to have Sayan as my PhD advisor.  He was incredibly kind, patient, and supportive, and always willing to offer guidance and encouragement.  He had a remarkable ability to balance his sharp intellect with a warm sense of humor, and always knew how to cut through the anxieties of research with a well-timed joke.
+description: "I was fortunate to have Sayan as my PhD advisor.  He was incredibly kind, patient, and supportive, and always willing to offer guidance and encouragement.  He had a remarkable ability to balance his sharp intellect with a warm sense of humor, and always knew how to cut through the anxieties of research with a well-timed joke.
 
 Sayan went above and beyond to make me feel included in the research community that he was such a major part of at Duke and beyond. He always encouraged me to try new things and pursue new angles, and lifted me up when I made mistakes. He went above and beyond to get to know me as a person, meeting for the occasional drink even during summer internships or after graduating. Sayan was so generous with his time and I am sure he would do these things for any student - but he did them for me and it made a world of difference. I am so grateful to Sayan for his mentorship and friendship. 
 
-He was an amazingly skilled researcher, and a dedicated advisor who genuinely cared for his students as individuals. He will be deeply missed.
+He was an amazingly skilled researcher, and a dedicated advisor who genuinely cared for his students as individuals. He will be deeply missed."
 ---
