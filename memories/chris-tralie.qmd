@@ -1,0 +1,5 @@
+---
+author: Chris Tralie
+index: 40
+description: Sayan was one of the kindest professors I ever met.  No ego, even at his level of prestige.  Also just a funny and down to earth guy.  Research wise, I really looked up to him as someone who could leverage unusually deep mathematical ideas appropriately in applications.  It is amazing how one person could master such a breadth of skills across mathematics, statistics, computer science, and computational biology.  He was a titan!
+---
