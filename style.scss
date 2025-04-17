@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+/*-- scss:rules --*/
+
+.lobster {
+    font-family: "Lobster", sans-serif;
+    text-align: center;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 200%;
+}
+
+.large {
+    font-size: 400%;
+}
+
+.right-align {
+    text-align: right;
+}
+
+.center-align {
+    text-align: center;
+}

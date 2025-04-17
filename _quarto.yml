@@ -6,11 +6,13 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: program.qmd
+        text: Program
 
 format:
   html:
-    theme: cosmo
-    toc: true
+    theme: [cosmo, style.scss]
+    toc: true 
 
 
 
