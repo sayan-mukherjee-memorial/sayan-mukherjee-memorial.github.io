@@ -1,0 +1,5 @@
+---
+author: Martin Giese
+index: 61
+description: "Sayan was one of my best friends at M.I.T. He is one of the most brilliant applied mathematicians I have ever met, with a deep scientific understanding across several disciplines and a great passion for everything he did. He also loved to challenge conventional rules. I will never forget the two of us sitting together in one of the worst pubs in Cambridge while he read books by Hannah Arendt, or him entering a monastery in Genoa wearing a T-shirt with the slogan 'Jesus hates me'. He will be greatly missed, as a scientist as well as an exceptional human being."
+---
