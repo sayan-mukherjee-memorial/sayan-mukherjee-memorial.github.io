@@ -1,0 +1,7 @@
+---
+author: The Chronicle
+title: "[‘Always there for you’: Sayan Mukherjee remembered for generosity of spirit, impact on statistics and medicine](https://www.dukechronicle.com/article/2025/05/duke-university-sayan-mukherjee-remembered-for-contributions-to-statistics-gene-set-analysis-building-community-supporting-colleagues)"
+date: 2025-05-04
+image: images/chronicle2.png
+image-alt: Feature article from The Chronicle
+---
