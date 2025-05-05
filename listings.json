@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/press/chronicle2.html",
       "/press/india-west.html",
       "/press/chronicle.html",
       "/press/duke.html",
@@ -70,7 +71,13 @@
       "/memories/david-page.html",
       "/memories/massimiliano-pontil.html",
       "/memories/lilli.html",
-      "/memories/ioanna-manolopoulou.html"
+      "/memories/ioanna-manolopoulou.html",
+      "/memories/naoki-saito.html",
+      "/memories/marina-meila.html",
+      "/memories/david-banks.html",
+      "/memories/liza-levina.html",
+      "/memories/sudipto-banerjee.html",
+      "/memories/peter-mueller.html"
     ]
   }
 ]
