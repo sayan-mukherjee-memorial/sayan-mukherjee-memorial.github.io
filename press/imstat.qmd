@@ -1,0 +1,7 @@
+---
+author: Institute of Mathematical Statistics
+title: "[Obituary: Sayan Mukherjee 1971–2025](https://imstat.org/2025/08/28/obituary-sayan-mukherjee-1971-2025/)"
+date: 2025-08-25
+image: images/imstat.png
+image-alt: Institute of Mathematical Statistics Obituary
+---
